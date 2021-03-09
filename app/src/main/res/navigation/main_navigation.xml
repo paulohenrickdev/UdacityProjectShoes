@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/instructionsFragment">
+
+    <fragment
+        android:id="@+id/instructionsFragment"
+        android:name="com.example.udacityprojectshoes.screen.InstructionsFragment"
+        android:label="fragment_instructions"
+        tools:layout="@layout/fragment_instructions" >
+        <action
+            android:id="@+id/action_instructionsFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+        <action
+            android:id="@+id/action_instructionsFragment_to_createAccountFragment"
+            app:destination="@id/createAccountFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.udacityprojectshoes.screens.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_welcome"
+            app:destination="@id/welcomeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/welcomeFragment"
+        android:name="com.example.udacityprojectshoes.screens.Welcome"
+        android:label="fragment_welcome"
+        tools:layout="@layout/fragment_welcome" >
+        <action
+            android:id="@+id/action_welcome_to_listShoesFragment"
+            app:destination="@id/listShoesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/listShoesFragment"
+        android:name="com.example.udacityprojectshoes.screen.shoes.ListShoesFragment"
+        android:label="fragment_list_shoes"
+        tools:layout="@layout/fragment_list_shoes" >
+        <action
+            android:id="@+id/action_listShoesFragment_to_addShoesFragment"
+            app:destination="@id/addShoesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addShoesFragment"
+        android:name="com.example.udacityprojectshoes.screen.shoes.AddShoesFragment"
+        android:label="fragment_add_shoes"
+        tools:layout="@layout/fragment_add_shoes" />
+    <fragment
+        android:id="@+id/createAccountFragment"
+        android:name="com.example.udacityprojectshoes.screen.CreateAccountFragment"
+        android:label="fragment_create_account"
+        tools:layout="@layout/fragment_create_account" >
+        <action
+            android:id="@+id/action_createAccountFragment_to_welcome"
+            app:destination="@id/welcomeFragment" />
+    </fragment>
+</navigation>
