@@ -2,4 +2,22 @@
     <string name="app_name">UdacityProjectShoes</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account">Create account</string>
+    <string name="login_button">Login</string>
+    <string name="password_edit">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome">Welcome to my android app about shoes. You will be able to add a shoe and see the entire list of your added shoes (:</string>
+    <string name="list_of_shoes">LIST OF SHOES</string>
+    <string name="nome">Nome</string>
+    <string name="instructions_app">Below are some instructions for using the app :D</string>
+    <string name="instructions_add_shoe">To add a shoe, just click on the FAB.</string>
+    <string name="instructions_list">Once added, your shoe will be added to your shoe list.</string>
+    <string name="instructions_simple">Simple and easy to use.</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="todo">TODO</string>
+    <string name="format_price">Price: %d</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="name_shoe">Name Shoe</string>
+    <string name="description_shoe">Description Shoe</string>
+    <string name="cancel_add_shoe">Cancel ADD shoe</string>
 </resources>
