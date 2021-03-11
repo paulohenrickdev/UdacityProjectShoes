@@ -1,0 +1,45 @@
+com/example/udacityprojectshoes/databinding/FragmentLoginBinding.java
+ com.example.udacityprojectshoes.databinding.FragmentLoginBinding
+com/example/udacityprojectshoes/databinding/FragmentWelcomeBinding.java
+ com.example.udacityprojectshoes.databinding.FragmentWelcomeBinding
+com/example/udacityprojectshoes/databinding/FragmentCreateAccountBindingImpl.java
+ com.example.udacityprojectshoes.databinding.FragmentCreateAccountBindingImpl
+com/example/udacityprojectshoes/BR.java
+ com.example.udacityprojectshoes.BR
+com/example/udacityprojectshoes/BuildConfig.java
+ com.example.udacityprojectshoes.BuildConfig
+com/example/udacityprojectshoes/DataBinderMapperImpl.java
+ com.example.udacityprojectshoes.DataBinderMapperImpl
+ com.example.udacityprojectshoes.DataBinderMapperImpl$InnerBrLookup
+ com.example.udacityprojectshoes.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/udacityprojectshoes/databinding/FragmentListShoesBinding.java
+ com.example.udacityprojectshoes.databinding.FragmentListShoesBinding
+com/example/udacityprojectshoes/databinding/FragmentAddShoesBinding.java
+ com.example.udacityprojectshoes.databinding.FragmentAddShoesBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/udacityprojectshoes/DataBindingTriggerClass.java
+ com.example.udacityprojectshoes.DataBindingTriggerClass
+com/example/udacityprojectshoes/databinding/FragmentInstructionsBindingImpl.java
+ com.example.udacityprojectshoes.databinding.FragmentInstructionsBindingImpl
+com/example/udacityprojectshoes/databinding/FragmentAddShoesBindingImpl.java
+ com.example.udacityprojectshoes.databinding.FragmentAddShoesBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/udacityprojectshoes/databinding/FragmentInstructionsBinding.java
+ com.example.udacityprojectshoes.databinding.FragmentInstructionsBinding
+com/example/udacityprojectshoes/databinding/FragmentWelcomeBindingImpl.java
+ com.example.udacityprojectshoes.databinding.FragmentWelcomeBindingImpl
+com/example/udacityprojectshoes/databinding/FragmentListShoesBindingImpl.java
+ com.example.udacityprojectshoes.databinding.FragmentListShoesBindingImpl
+com/example/udacityprojectshoes/databinding/FragmentAddShoesBindingV21Impl.java
+ com.example.udacityprojectshoes.databinding.FragmentAddShoesBindingV21Impl
+com/example/udacityprojectshoes/databinding/FragmentCreateAccountBinding.java
+ com.example.udacityprojectshoes.databinding.FragmentCreateAccountBinding
+com/example/udacityprojectshoes/generated/callback/OnClickListener.java
+ com.example.udacityprojectshoes.generated.callback.OnClickListener
+ com.example.udacityprojectshoes.generated.callback.OnClickListener$Listener
+com/example/udacityprojectshoes/databinding/FragmentLoginBindingImpl.java
+ com.example.udacityprojectshoes.databinding.FragmentLoginBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent

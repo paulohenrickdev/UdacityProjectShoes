@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_list_shoes.xml",
+        "source": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/src/main/res/layout/fragment_list_shoes.xml"
+    },
+    {
+        "merged": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_welcome.xml",
+        "source": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/src/main/res/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_create_account.xml",
+        "source": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/src/main/res/layout/fragment_create_account.xml"
+    },
+    {
+        "merged": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_add_shoes.xml",
+        "source": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/src/main/res/layout/fragment_add_shoes.xml"
+    },
+    {
+        "merged": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_login.xml",
+        "source": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_instructions.xml",
+        "source": "/home/paulo/AndroidStudioProjects/UdacityProjectShoes/app/src/main/res/layout/fragment_instructions.xml"
+    }
+]
